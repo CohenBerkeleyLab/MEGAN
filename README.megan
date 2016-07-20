@@ -1,0 +1,3 @@
+The version of MEGAN contained in this repo expects the directory or 
+link "data" in this folder to contain the data necessary for MEGAN,
+i.e. "ls data/" should show all the lai.nc files.
