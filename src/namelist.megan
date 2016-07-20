@@ -1,0 +1,9 @@
+&control
+
+domains = 1,
+start_lai_mnth = 1,
+end_lai_mnth   = 12,
+wrf_dir   = '/global/scratch/laughner/WRFTutorial-prototype/WRFV3/run',
+megan_dir = '/global/scratch/laughner/WRFTutorial-prototype/MEGAN/data'
+
+/
